@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.listadeimagenes{
+    margin-top: 100px;
+    width: 100%;
+    margin-left: 100px;
+    
+}
+.imagen-perro{
+    height: 300px;
+}
